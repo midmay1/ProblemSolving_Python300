@@ -58,3 +58,4 @@ print(calc)
 print('fuxing idiot. if you can print variable, you just write within "print"')
 print(5/3)
 print("="*30+"\n")
+ 
